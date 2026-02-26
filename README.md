@@ -22,3 +22,12 @@ Studiuję Analitykę danych w biznesie na Politechnice Opolskiej, semestr 2.
 2. matplotlib
 
 Kontakt- GitHub: [omgkatia](https://github.com/omgkatia)- Email: katiakol@wp.pl
+
+## Mój workflow
+```mermaid
+graph TD
+A[Pomysł]--> B[Kod w Pythonie]
+B--> C[Analiza danych]
+C--> D[Wizualizacja]
+D--> E[Raport]
+```
